@@ -9,5 +9,3 @@ In the coming months, I hope to have a variety of data structures and algorithms
 Feel free to create PRs and issues on the repo.
 
 Report bugs/issues/suggestions to xennygrimmato (sakshijd222@gmail.com)
-
-Please read CONTRIBUTING.md for contribution instructions.
