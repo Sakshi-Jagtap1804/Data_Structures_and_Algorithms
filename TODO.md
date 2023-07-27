@@ -5,8 +5,10 @@ A list of data strucctures and algorithms yet to be added:
 * Sorting
 * Hashing
 * Priority Queue
+* Greedy
 * Tree
 * Graph
+* DP
 * Heap
 * Bridges in a Graph
 * Disjoint Set Union
