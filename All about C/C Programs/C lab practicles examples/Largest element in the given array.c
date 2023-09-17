@@ -1,0 +1,18 @@
+#include<stdio.h>
+
+int main()
+{
+	int arr[] = {255, 11, 7, 75, 56};
+	
+	int length = sizeof(arr)/sizeof(arr[0]);
+	int max = arr[0], i = 0;
+	
+	for (i=0; i<length; i++){
+		if(arr[i] > max)
+		max = arr[i];
+	}
+	
+	printf("Largest element present in given array: %d\n", max);
+	
+	return 0;
+}
